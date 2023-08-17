@@ -1,0 +1,5 @@
+git init
+git branch -m main
+git push --set-upstream origin main
+yarn add gh-pages
+npm run deploy
